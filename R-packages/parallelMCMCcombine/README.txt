@@ -1,6 +1,7 @@
 Package: parallelMCMCcombine  
 
 Title: Methods for combining independent subset Markov chain Monte Carlo (MCMC) posterior samples to estimate a posterior density given the full data set
+
 Version: 1.0
 
 Authors: Alexey Miroshnikov, Erin Conlon
